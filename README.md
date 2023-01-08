@@ -1,6 +1,6 @@
 # NPM Documentation
 
-NPM is an incredibly important tool for web developers in today's development landscape it is very important to understand what it is for, how it works, and when to use it. 
+NPM is a vital tool for web developers in today's development landscape; it is crucial to understand what it is for, how it works, and when to use it. This assignment is for you to document some basics about the tool, why it is so essential, and some notes that will be handy for you to remember.
 
 ## Steps to complete the assignment
 
