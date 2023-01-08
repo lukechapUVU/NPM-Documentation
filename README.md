@@ -1,6 +1,6 @@
-# Title
+# NPM Documentation
 
-Description
+NPM is an incredibly important tool for web developers in today's development landscape it is very important to understand what it is for, how it works, and when to use it. 
 
 ## Steps to complete the assignment
 
@@ -12,6 +12,16 @@ Description
 6. Leave the visibility **private**. *Changing this to public will result in a 0 for the assignment.*
 7. Optional: Choose a theme you like.
 
-## Prompt
+## Assignment Prompt
 
-Prompt goes here.
+For your personal documentation, please answer the following questions:
+
+1. What is NPM? What does it do? Why is it an important tool?
+2. What problems does NPM Slove?
+3. Describe the 3 main parts of NPM.
+4. What is the package.json file?
+5. What is the scripts section of the package.json file? How do you use it? What are the default commands, and how do you use your own?
+6. What are dependencies? What does this section define? What are dev dependencies? Why is it important to define dev dependencies vs dependencies?
+7. How do you install dependencies? Where do dependencies get installed?
+8. When running scripts with NPM, where does NPM look (path) for the dependencies of those scripts?
+9. Name 3 NPM commands, and why they are important.
